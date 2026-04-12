@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-**About me**
-======
 Hello, I'm Santiago Sandoval Ruiz. I am a Sociologist (BA) from the Pontifica Universidad Católica _(Pontifical Catholic University)_ of Chile, and I'm currently studying an MA in Sociology in the same university.
 
 My research focuses on social theory, historical sociology and the philosophy of social sciences. Theretically, I study how the social sciences theorize and constitute their empirical objects, analyzing specifically the many ways how the social sciences intervene in the world they try to study. Empirically, I  focus on the importance of the historical in the analysis of the social sciences by using case-studies of past events in order to test theories, hypothesis and illuminate current phenomena. Methodologically, I use qualitative techniques, mixing case studies with content analysis and in-depth interviews. 

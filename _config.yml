@@ -23,7 +23,7 @@ repository               : "s-sandoval.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile_SSR.png"
+  avatar           : "https://s-sandoval.github.io/files/Profile_SSR.png"
   name             : "Santiago Sandoval"
   pronouns         : # example: "she/her"  
   bio              : "M.A. Sociology Student @ Pontificia Universidad Católica"

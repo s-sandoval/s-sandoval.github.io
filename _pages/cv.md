@@ -10,11 +10,11 @@ redirect_from:
 {% include base_path %}
 
 Check out my CV in English
-======
+------
 * CV in English
 
 Check out my CV in Spanish
-======
+------
 * CV in Spanish
 
 

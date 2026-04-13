@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About me"
+title: "Hi!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello, I'm Santiago Sandoval Ruiz. I am a Sociologist (BA) from the Pontifica Universidad Católica _(Pontifical Catholic University)_ of Chile, and I'm currently studying an MA in Sociology in the same university.
+I'm Santiago Sandoval Ruiz. I am a Sociologist (BA) from the Pontifica Universidad Católica _(Pontifical Catholic University)_ of Chile, and I'm currently studying an MA in Sociology in the same university.
 
 My research focuses on social theory, historical sociology and the philosophy of social sciences. Theoretically, I study how the social sciences theorize and constitute their empirical objects, analyzing specifically the many ways how the social sciences intervene in the world they try to study. Empirically, I  focus on the importance of the historical in the analysis of the social sciences by using case-studies of past events in order to test theories, hypothesis and illuminate current phenomena. Methodologically, I use qualitative techniques, mixing case studies with content analysis and in-depth interviews. 
 

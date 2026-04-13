@@ -30,4 +30,22 @@ Check out my CV in Spanish
 
 
 
-.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -11,7 +11,7 @@ I'm Santiago Sandoval Ruiz. I am a Sociologist (BA) from the Pontifica Universid
 
 My research focuses on social theory, historical sociology and the philosophy of social sciences. Theoretically, I study how the social sciences theorize and constitute their empirical objects, analyzing specifically the many ways how the social sciences intervene in the world they try to study. Empirically, I  focus on the importance of the historical in the analysis of the social sciences by using case-studies of past events in order to test theories, hypothesis and illuminate current phenomena. Methodologically, I use qualitative techniques, mixing case studies with content analysis and in-depth interviews. 
 
-I currently work as a research assitant for the Fondecyt N°11240326: ["Space and Time in Social Theory: Towards a Sistematization and Integration of Both Concepts"](https://www.tes-project.org/). 
+I currently work as a research assitant for the Fondecyt N°11240326: ["Space and Time in Social Theory: Towards a Sistematization and Integration of Both Concepts"](https://www.tes-project.org/). I also coordinate the [Social Theory Today Nucleus](https://teoriasocialhoy.uchile.cl/) of the Department of Sociology of the University of Chile, along with professors Dr. Darío Montero and Dr. Felipe Torres. 
 
 I was born in São Paulo, Brazil through a Chilean family. Currently, I live in Santiago de Chile (my _real_ hometown!).
 

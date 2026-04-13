@@ -11,8 +11,8 @@ redirect_from:
 
 Check out my CV in English
 ======
-* [CV in English]
+* CV in English
 
 Check out my CV in Spanish
 ======
-* [CV in Spanish]
+* CV in Spanish
